@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="domain">jitsi.indahonline.com</string>
+    <string name="notification_channel_id">233</string>
+    <string name="notification_channel_name">channelname</string>
+    <string name="fcm_key">AAAAVoU5Vbo:APA91bHXPzKKcBN0TRWiXG_i5ILnglhL9p72ygB7am0Jq8GtxCsCnZXajjDECX6PwqOfdeFdQkRtK-rGA3KARQTb0t6jlUHFbml3NfNyRdtTT17XMJNvkyGsuijiWOBXrzAJNJvTIbyS</string>
+
+</resources>
